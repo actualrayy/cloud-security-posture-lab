@@ -1,0 +1,29 @@
+{
+    "Policy": {
+        "PolicyName": "cspm-lab-intentional-overprivileged",
+        "PolicyId": "ANPAWSJ5QH57NPG2I7GHY",
+        "Arn": "arn:aws:iam::451637428094:policy/cspm-lab-intentional-overprivileged",
+        "Path": "/",
+        "DefaultVersionId": "v1",
+        "AttachmentCount": 1,
+        "PermissionsBoundaryUsageCount": 0,
+        "IsAttachable": true,
+        "Description": "Least-privilege policy after CSPM remediation",
+        "CreateDate": "2026-08-12T13:39:50+00:00",
+        "UpdateDate": "2026-08-12T13:39:50+00:00",
+        "Tags": [
+            {
+                "Key": "Purpose",
+                "Value": "CSPM remediation testing"
+            },
+            {
+                "Key": "Intentional",
+                "Value": "false"
+            },
+            {
+                "Key": "Name",
+                "Value": "cspm-lab-remediated-policy"
+            }
+        ]
+    }
+}

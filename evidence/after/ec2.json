@@ -1,0 +1,9 @@
+{
+    "InstanceId": "i-08b4dfdea5e7a1fcf",
+    "PublicIP": "98.92.132.62",
+    "Profile": "arn:aws:iam::451637428094:instance-profile/cspm-lab-ec2-profile",
+    "SecurityGroups": [
+        "sg-07cc4b5974c14d61e"
+    ],
+    "State": "running"
+}

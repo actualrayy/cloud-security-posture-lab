@@ -1,0 +1,7 @@
+[
+    {
+        "Name": "cspm-lab-trail",
+        "S3Bucket": "cspm-lab-451637428094",
+        "MultiRegion": true
+    }
+]
